@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Suphachat
 
-<!--
-**EarthBBMP/EarthBBMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student at Chulalongkorn University (ISE), working on AI, robotics, and back-end software.
 
-Here are some ideas to get you started:
+### Why this page looks quiet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of what I build is for companies, clients, and research teams, and it's covered by NDAs, so the code stays in private repositories. I'm happy to walk through any of it in an interview, as far as the agreements allow.
+
+### Where to see my work
+
+- Portfolio: [earthbbmp.github.io](https://earthbbmp.github.io)
+- Research: two papers accepted at NeurIPS 2026 workshops, one on how LLMs handle amended Thai law and one auditing a gene-expression model
+- LinkedIn: [linkedin.com/in/suphachat](https://www.linkedin.com/in/suphachat)
+- Writing: [medium.com/@theearthbbmp](https://medium.com/@theearthbbmp)
+
+### Tools I use
+
+Python, Kotlin, Go, TypeScript, SQL · PyTorch · ROS 2, PX4 · Docker, Git, Google Cloud
