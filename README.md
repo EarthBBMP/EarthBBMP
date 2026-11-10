@@ -4,7 +4,7 @@ I'm an engineering student at Chulalongkorn University (ISE), working on AI, rob
 
 ### Why this page looks quiet
 
-Most of what I build is for companies, clients, and research teams, and it's covered by NDAs, so the code stays in private repositories/workspace. I'm happy to walk through any of it in an interview, as far as the agreements allow.
+Most of what I build is for companies, clients, and research teams, and it's covered by NDAs, so the code stays in private repositories/workspaces. I'm happy to walk through any of it in an interview, as far as the agreements allow.
 
 ### Where to see my work
 
